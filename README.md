@@ -32,4 +32,5 @@
 Content created by: [Stuart Kirk](https://github.com/stuartatmicrosoft) & [Zim Kalinowski](https://github.com/zikalino) with contributions from [Jason DeLorme](https://github.com/ms-jasondel), [Joey Schluchter](https://github.com/jschluchter) and [Brian Redmond](https://github.com/chzbrgr71)
 
 The content of this program can be re-delivered, on request, to any Microsoft customer seeking to deploy open source workloads on Azure.  Please contact stkirk@microsoft.com for additional details and to coordinate delivery of the program.
+Way to go -mtw.
 </p>
